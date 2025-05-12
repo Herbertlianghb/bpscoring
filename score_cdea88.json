@@ -1,0 +1,40 @@
+{
+  "total": 33.0,
+  "dim_scores": {
+    "E": 12.0,
+    "I": 12.0,
+    "T": 3.0,
+    "C": 3.0,
+    "S": 3.0
+  },
+  "detail": {
+    "E1": {
+      "score": 1,
+      "reason": "评分过程出错: Expecting value: line 1 column 1 (char 0)"
+    },
+    "E2": {
+      "score": 1,
+      "reason": "评分过程出错: Expecting value: line 1 column 1 (char 0)"
+    },
+    "I1": {
+      "score": 1,
+      "reason": "评分过程出错: Expecting value: line 1 column 1 (char 0)"
+    },
+    "I2": {
+      "score": 1,
+      "reason": "评分过程出错: Expecting value: line 1 column 1 (char 0)"
+    },
+    "T1": {
+      "score": 1,
+      "reason": "评分过程出错: Expecting value: line 1 column 1 (char 0)"
+    },
+    "C1": {
+      "score": 1,
+      "reason": "评分过程出错: Expecting value: line 1 column 1 (char 0)"
+    },
+    "S1": {
+      "score": 1,
+      "reason": "评分过程出错: Expecting value: line 1 column 1 (char 0)"
+    }
+  }
+}
